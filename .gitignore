@@ -1,0 +1,23 @@
+# Temporary frame renders
+temp_render_frames/
+
+# Raw AI Studio prompt exports
+Generated Image*.gif
+
+# GNU Octave / MATLAB temporary files
+octave-workspace
+octave-core
+*.asv
+*.m~
+
+# Operating system artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*~
